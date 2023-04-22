@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "name": "Server",
+      "budget": "400",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": [
+            "Serviço 1"
+          ],
+          "cost": [
+            "100"
+          ],
+          "descripition": [
+            "Primeiro serviço"
+          ],
+          "id": "ffa566ce-ec8f-483e-9050-ead075f95469"
+        },
+        {
+          "name": [
+            "Serviço 2"
+          ],
+          "cost": [
+            "100"
+          ],
+          "descripition": [
+            "Segundo serviço"
+          ],
+          "id": "f158f9af-4ef0-4936-8299-d4c1ed6f8fc8"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Cloud",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2,
+      "serivces": []
+    },
+    {
+      "name": "Site",
+      "budget": "4.000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Esportes",
+      "budget": "2.000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
